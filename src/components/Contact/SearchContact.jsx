@@ -9,7 +9,7 @@ const SearchContact = () => {
               id="basic-addon1"
               style={{backgroundColor: PURPLE}}
           >
-            <i className="fas fa-search"/>
+            <i className="fa fa-search"/>
           </span>
             <input
                 dir="rtl"
