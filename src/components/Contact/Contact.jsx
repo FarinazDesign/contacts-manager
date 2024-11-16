@@ -24,7 +24,6 @@ const Contact = ({ contact, setCantacts }) => {
       await handleGetContacts();
     } else {
       // toast.error(data.message);
-
     }
   };
 
